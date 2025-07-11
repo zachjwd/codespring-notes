@@ -1,0 +1,1 @@
+ALTER TABLE "profiles" ADD COLUMN "next_credit_renewal" timestamp;
